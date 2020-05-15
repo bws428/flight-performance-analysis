@@ -4,6 +4,10 @@ This is a Jupyter Notebook-based performance analysis of an RV-8 aircraft; used 
 
 ![Thrust Required Plot](https://raw.githubusercontent.com/bws428/flight-performance-analysis/master/charts/thrust-required-0.png)
 
+## Anaconda Python
+
+These instructions presume the user has installed the [Anaconda](https://www.anaconda.com/) Python distribution, and is using the `conda` package manager.  The Anaconda Individual Edition is free and open source.
+
 ## Installation
 
 Clone the repo:
