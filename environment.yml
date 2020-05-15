@@ -1,0 +1,7 @@
+name: rv-8
+dependencies:
+  - python>=3.6
+  - numpy
+  - matplotlib
+  - seaborn
+  - pip

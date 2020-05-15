@@ -1,0 +1,25 @@
+Clone the repo and cd into the directory:
+```
+git clon
+```
+
+
+Update conda:
+
+```
+conda update -n base -c defaults conda
+```
+
+Create the `rv-8` environment with required dependencies:
+
+```
+conda env create -f environment.yml
+```
+
+To activate this environment, use
+#
+#     $ conda activate rv-8
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
