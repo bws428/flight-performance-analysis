@@ -1,6 +1,6 @@
 # Flight Performance Analysis for an RV-8 Aircraft
 
-This is a Jupyter Notebook-based performance analysis of an RV-8 aircraft; used for an end-of-semester talk.
+This is a Jupyter Notebook-based performance analysis of an RV-8 aircraft, used for an end-of-semester talk.
 
 ![Thrust Required Plot](https://raw.githubusercontent.com/bws428/flight-performance-analysis/master/charts/thrust-required-0.png)
 
